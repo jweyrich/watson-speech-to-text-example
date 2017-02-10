@@ -1,0 +1,29 @@
+{
+  "name": "watson-speech-to-text-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recognize.js",
+  "dependencies": {
+    "get-user-media-promise": "^1.1.1",
+    "mic": "^2.1.1",
+    "microphone-stream": "^3.0.6",
+    "watson-developer-cloud": "^1.10.0",
+    "yargs": "^13.3.0"
+  },
+  "devDependencies": {
+    "@types/yargs": "^13.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "watson",
+    "audio",
+    "speech",
+    "text",
+    "conversion",
+    "recognition"
+  ],
+  "author": "Jardel Weyrich <jardel@teltecsolutions.com.br>",
+  "license": "MIT"
+}
